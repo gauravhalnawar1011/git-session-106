@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: ssd-pod
+spec:
+  nodeSelector:
+    env: dev 
+  containers:
+  - image: nginx
+    name: nginx
+
+
+
