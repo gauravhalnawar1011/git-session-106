@@ -1,0 +1,39 @@
+name: gaurav
+lastnae: halnawar
+age: 24
+cisty: pune 
+ciuntry: india
+prfession: engineer Devops cloud site reliability 
+hobbies:
+  - reading
+  - gym 
+  - teaching
+  - foodies
+skills:
+  programming_languages:
+    - python
+    - bash scripting
+    - dockerfile
+    - yaml 
+    - k8s 
+    - terraform
+  cloud_platformss:
+    - AWS
+    - GCP
+    - Auzure
+    - alibaba cloud
+    - IBM cloud
+    - oracle cloud
+employees:
+  - name: john doe
+    age: 30
+    position: software engineer
+  - name: jane smith
+    age: 28
+    position: data scientist
+  - name: emily davis
+    age: 35
+    position: product manager       
+  - name: michael brown
+    age: 40
+    position: devops engineer

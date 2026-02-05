@@ -1,0 +1,9 @@
+name: hello world workflow
+on: 
+    workflow_dispatch:
+jobs:
+    hello-world:
+        runs-on: windows-latest
+        steps: 
+            - name: hello world step
+              run: echo "hello world for windows runner"
